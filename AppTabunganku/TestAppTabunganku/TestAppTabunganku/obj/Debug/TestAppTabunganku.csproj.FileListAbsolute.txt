@@ -1,0 +1,30 @@
+D:\Semester 4\Pemograman Visual\Deskop\Testing 1\TestAppTabunganku\TestAppTabunganku\bin\Debug\TestAppTabunganku.exe.config
+D:\Semester 4\Pemograman Visual\Deskop\Testing 1\TestAppTabunganku\TestAppTabunganku\bin\Debug\TestAppTabunganku.exe
+D:\Semester 4\Pemograman Visual\Deskop\Testing 1\TestAppTabunganku\TestAppTabunganku\bin\Debug\TestAppTabunganku.pdb
+D:\Semester 4\Pemograman Visual\Deskop\Testing 1\TestAppTabunganku\TestAppTabunganku\obj\Debug\TestAppTabunganku.csproj.AssemblyReference.cache
+D:\Semester 4\Pemograman Visual\Deskop\Testing 1\TestAppTabunganku\TestAppTabunganku\obj\Debug\TestAppTabunganku.csproj.SuggestedBindingRedirects.cache
+D:\Semester 4\Pemograman Visual\Deskop\Testing 1\TestAppTabunganku\TestAppTabunganku\obj\Debug\TestAppTabunganku.FormLogin.resources
+D:\Semester 4\Pemograman Visual\Deskop\Testing 1\TestAppTabunganku\TestAppTabunganku\obj\Debug\TestAppTabunganku.FormRegistrasi.resources
+D:\Semester 4\Pemograman Visual\Deskop\Testing 1\TestAppTabunganku\TestAppTabunganku\obj\Debug\TestAppTabunganku.Properties.Resources.resources
+D:\Semester 4\Pemograman Visual\Deskop\Testing 1\TestAppTabunganku\TestAppTabunganku\obj\Debug\TestAppTabunganku.csproj.GenerateResource.cache
+D:\Semester 4\Pemograman Visual\Deskop\Testing 1\TestAppTabunganku\TestAppTabunganku\obj\Debug\TestAppTabunganku.csproj.CoreCompileInputs.cache
+D:\Semester 4\Pemograman Visual\Deskop\Testing 1\TestAppTabunganku\TestAppTabunganku\obj\Debug\TestAppTabunganku.exe
+D:\Semester 4\Pemograman Visual\Deskop\Testing 1\TestAppTabunganku\TestAppTabunganku\obj\Debug\TestAppTabunganku.pdb
+D:\Semester 4\Pemograman Visual\Deskop\Testing 1\TestAppTabunganku\TestAppTabunganku\obj\Debug\TestAppTabunganku.Tabunganku.resources
+D:\Semester 4\Pemograman Visual\Deskop\Testing 1\TestAppTabunganku\TestAppTabunganku\obj\Debug\TestAppTabunganku.FormTarget.resources
+D:\Semester 4\Pemograman Visual\Deskop\Testing 1\TestAppTabunganku\TestAppTabunganku\obj\Debug\TestAppTabunganku.Form1.resources
+D:\TestAppTabunganku\TestAppTabunganku\TestAppTabunganku\bin\Debug\TestAppTabunganku.exe.config
+D:\TestAppTabunganku\TestAppTabunganku\TestAppTabunganku\bin\Debug\TestAppTabunganku.exe
+D:\TestAppTabunganku\TestAppTabunganku\TestAppTabunganku\bin\Debug\TestAppTabunganku.pdb
+D:\TestAppTabunganku\TestAppTabunganku\TestAppTabunganku\obj\Debug\TestAppTabunganku.csproj.AssemblyReference.cache
+D:\TestAppTabunganku\TestAppTabunganku\TestAppTabunganku\obj\Debug\TestAppTabunganku.csproj.SuggestedBindingRedirects.cache
+D:\TestAppTabunganku\TestAppTabunganku\TestAppTabunganku\obj\Debug\TestAppTabunganku.Form1.resources
+D:\TestAppTabunganku\TestAppTabunganku\TestAppTabunganku\obj\Debug\TestAppTabunganku.FormTarget.resources
+D:\TestAppTabunganku\TestAppTabunganku\TestAppTabunganku\obj\Debug\TestAppTabunganku.FormLogin.resources
+D:\TestAppTabunganku\TestAppTabunganku\TestAppTabunganku\obj\Debug\TestAppTabunganku.FormRegistrasi.resources
+D:\TestAppTabunganku\TestAppTabunganku\TestAppTabunganku\obj\Debug\TestAppTabunganku.Properties.Resources.resources
+D:\TestAppTabunganku\TestAppTabunganku\TestAppTabunganku\obj\Debug\TestAppTabunganku.Tabunganku.resources
+D:\TestAppTabunganku\TestAppTabunganku\TestAppTabunganku\obj\Debug\TestAppTabunganku.csproj.GenerateResource.cache
+D:\TestAppTabunganku\TestAppTabunganku\TestAppTabunganku\obj\Debug\TestAppTabunganku.csproj.CoreCompileInputs.cache
+D:\TestAppTabunganku\TestAppTabunganku\TestAppTabunganku\obj\Debug\TestAppTabunganku.exe
+D:\TestAppTabunganku\TestAppTabunganku\TestAppTabunganku\obj\Debug\TestAppTabunganku.pdb
